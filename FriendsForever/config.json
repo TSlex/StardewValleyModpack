@@ -1,0 +1,6 @@
+{
+  "AffectSpouses": false,
+  "AffectDates": false,
+  "AffectEveryoneElse": false,
+  "AffectAnimals": true
+}
